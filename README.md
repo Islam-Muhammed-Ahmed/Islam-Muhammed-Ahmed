@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islam23" alt="islam23" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/islammuhammed60" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/islammuhammed60?logo=twitter&style=for-the-badge" alt="https://twitter.com/islammuhammed60" /></a> </p>
+<br>
+<br>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React**
 
